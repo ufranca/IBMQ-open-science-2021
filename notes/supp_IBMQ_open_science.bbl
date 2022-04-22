@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{16}%
+\begin{thebibliography}{20}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -65,6 +65,30 @@
   \href {\doibase 10.1088/2058-9565/aba404} {\bibfield  {journal} {\bibinfo
   {journal} {Quantum Science and Technology}\ }\textbf {\bibinfo {volume}
   {5}}~(\bibinfo {number} {4}),\ \bibinfo {pages} {044006}}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Bharti}\ \emph {et~al.}(2022)\citenamefont {Bharti},
+  \citenamefont {Cervera-Lierta}, \citenamefont {Kyaw}, \citenamefont {Haug},
+  \citenamefont {Alperin-Lea}, \citenamefont {Anand}, \citenamefont {Degroote},
+  \citenamefont {Heimonen}, \citenamefont {Kottmann}, \citenamefont {Menke},
+  \citenamefont {Mok}, \citenamefont {Sim}, \citenamefont {Kwek},\ and\
+  \citenamefont {Aspuru-Guzik}}]{Bharti22}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Bharti}, \bibfnamefont
+  {K.}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Cervera-Lierta}},
+  \bibinfo {author} {\bibfnamefont {T.~H.}\ \bibnamefont {Kyaw}}, \bibinfo
+  {author} {\bibfnamefont {T.}~\bibnamefont {Haug}}, \bibinfo {author}
+  {\bibfnamefont {S.}~\bibnamefont {Alperin-Lea}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Anand}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Degroote}}, \bibinfo {author} {\bibfnamefont
+  {H.}~\bibnamefont {Heimonen}}, \bibinfo {author} {\bibfnamefont {J.~S.}\
+  \bibnamefont {Kottmann}}, \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
+  {Menke}}, \bibinfo {author} {\bibfnamefont {W.-K.}\ \bibnamefont {Mok}},
+  \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Sim}}, \bibinfo {author}
+  {\bibfnamefont {L.-C.}\ \bibnamefont {Kwek}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Aspuru-Guzik}}} (\bibinfo {year} {2022}),\
+  \href {\doibase 10.1103/revmodphys.94.015004} {\bibfield  {journal} {\bibinfo
+   {journal} {Reviews of Modern Physics}\ }\textbf {\bibinfo {volume}
+  {94}}~(\bibinfo {number} {1}),\ 10.1103/revmodphys.94.015004}\BibitemShut
   {NoStop}%
 \bibitem [{\citenamefont {Bravyi}\ \emph {et~al.}(2021)\citenamefont {Bravyi},
   \citenamefont {Sheldon}, \citenamefont {Kandala}, \citenamefont {Mckay},\
@@ -172,6 +196,28 @@
   \href {\doibase 10.1063/1.5089550} {\bibfield  {journal} {\bibinfo  {journal}
   {Applied Physics Reviews}\ }\textbf {\bibinfo {volume} {6}}~(\bibinfo
   {number} {2}),\ \bibinfo {pages} {021318}}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {LaRose}\ \emph {et~al.}(2020)\citenamefont {LaRose},
+  \citenamefont {Mari}, \citenamefont {Kaiser}, \citenamefont {Karalekas},
+  \citenamefont {Alves}, \citenamefont {Czarnik}, \citenamefont {Mandouh},
+  \citenamefont {Gordon}, \citenamefont {Hindy}, \citenamefont {Robertson},
+  \citenamefont {Thakre}, \citenamefont {Shammah},\ and\ \citenamefont
+  {Zeng}}]{LaRose20}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {LaRose}, \bibfnamefont
+  {R.}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Mari}}, \bibinfo
+  {author} {\bibfnamefont {S.}~\bibnamefont {Kaiser}}, \bibinfo {author}
+  {\bibfnamefont {P.~J.}\ \bibnamefont {Karalekas}}, \bibinfo {author}
+  {\bibfnamefont {A.~A.}\ \bibnamefont {Alves}}, \bibinfo {author}
+  {\bibfnamefont {P.}~\bibnamefont {Czarnik}}, \bibinfo {author} {\bibfnamefont
+  {M.~E.}\ \bibnamefont {Mandouh}}, \bibinfo {author} {\bibfnamefont {M.~H.}\
+  \bibnamefont {Gordon}}, \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont
+  {Hindy}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Robertson}},
+  \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Thakre}}, \bibinfo
+  {author} {\bibfnamefont {N.}~\bibnamefont {Shammah}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {W.~J.}\ \bibnamefont {Zeng}}} (\bibinfo {year}
+  {2020}),\ \href {\doibase 10.48550/ARXIV.2009.04417} {\enquote {\bibinfo
+  {title} {Mitiq: A software package for error mitigation on noisy quantum
+  computers},}\ }\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Lloyd}(1996)}]{Lloyd96}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibnamefont {Lloyd}, \bibfnamefont
@@ -191,6 +237,13 @@
   {journal} {\bibinfo  {journal} {{PRX} Quantum}\ }\textbf {\bibinfo {volume}
   {2}}~(\bibinfo {number} {4}),\ 10.1103/prxquantum.2.040326}\BibitemShut
   {NoStop}%
+\bibitem [{\citenamefont {Preskill}(2018)}]{Preskill18}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Preskill},
+  \bibfnamefont {J.}}} (\bibinfo {year} {2018}),\ \href {\doibase
+  10.22331/q-2018-08-06-79} {\bibfield  {journal} {\bibinfo  {journal}
+  {Quantum}\ }\textbf {\bibinfo {volume} {2}},\ \bibinfo {pages}
+  {79}}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Salath\'e}\ \emph {et~al.}(2015)\citenamefont
   {Salath\'e}, \citenamefont {Mondal}, \citenamefont {Oppliger}, \citenamefont
   {Heinsoo}, \citenamefont {Kurpiers}, \citenamefont
@@ -236,6 +289,33 @@
   {journal} {\bibinfo  {journal} {npj Quantum Information}\ }\textbf {\bibinfo
   {volume} {5}}~(\bibinfo {number} {1}),\
   10.1038/s41534-019-0217-0}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Smith}\ \emph {et~al.}(2022)\citenamefont {Smith},
+  \citenamefont {Ravi}, \citenamefont {Alexander}, \citenamefont {Bronn},
+  \citenamefont {Carvalho}, \citenamefont {Cervera-Lierta}, \citenamefont
+  {Chong}, \citenamefont {Chow}, \citenamefont {Cubeddu}, \citenamefont
+  {Hashim}, \citenamefont {Jiang}, \citenamefont {Lanes}, \citenamefont
+  {Otten}, \citenamefont {Schuster}, \citenamefont {Gokhale}, \citenamefont
+  {Earnest},\ and\ \citenamefont {Galda}}]{Smith22}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Smith}, \bibfnamefont
+  {K.~N.}}, \bibinfo {author} {\bibfnamefont {G.~S.}\ \bibnamefont {Ravi}},
+  \bibinfo {author} {\bibfnamefont {T.}~\bibnamefont {Alexander}}, \bibinfo
+  {author} {\bibfnamefont {N.~T.}\ \bibnamefont {Bronn}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Carvalho}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Cervera-Lierta}}, \bibinfo {author}
+  {\bibfnamefont {F.~T.}\ \bibnamefont {Chong}}, \bibinfo {author}
+  {\bibfnamefont {J.~M.}\ \bibnamefont {Chow}}, \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {Cubeddu}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Hashim}}, \bibinfo {author} {\bibfnamefont
+  {L.}~\bibnamefont {Jiang}}, \bibinfo {author} {\bibfnamefont
+  {O.}~\bibnamefont {Lanes}}, \bibinfo {author} {\bibfnamefont {M.~J.}\
+  \bibnamefont {Otten}}, \bibinfo {author} {\bibfnamefont {D.~I.}\ \bibnamefont
+  {Schuster}}, \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Gokhale}},
+  \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont {Earnest}}, \ and\
+  \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Galda}}} (\bibinfo {year}
+  {2022}),\ \href {\doibase 10.48550/ARXIV.2202.13600} {\enquote {\bibinfo
+  {title} {Summary: Chicago quantum exchange (cqe) pulse-level quantum control
+  workshop},}\ }\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Tacchino}\ \emph {et~al.}(2019)\citenamefont
   {Tacchino}, \citenamefont {Chiesa}, \citenamefont {Carretta},\ and\
   \citenamefont {Gerace}}]{Tacchino19}%
