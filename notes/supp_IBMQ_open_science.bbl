@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{15}%
+\begin{thebibliography}{16}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -248,4 +248,14 @@
   {journal} {\bibinfo  {journal} {Advanced Quantum Technologies}\ }\textbf
   {\bibinfo {volume} {3}}~(\bibinfo {number} {3}),\ \bibinfo {pages}
   {1900052}}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Temme}\ \emph {et~al.}(2017)\citenamefont {Temme},
+  \citenamefont {Bravyi},\ and\ \citenamefont {Gambetta}}]{Temme17}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Temme}, \bibfnamefont
+  {K.}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Bravyi}}, \ and\
+  \bibinfo {author} {\bibfnamefont {J.~M.}\ \bibnamefont {Gambetta}}} (\bibinfo
+  {year} {2017}),\ \href {\doibase 10.1103/physrevlett.119.180509} {\bibfield
+  {journal} {\bibinfo  {journal} {Physical Review Letters}\ }\textbf {\bibinfo
+  {volume} {119}}~(\bibinfo {number} {18}),\
+  10.1103/physrevlett.119.180509}\BibitemShut {NoStop}%
 \end{thebibliography}%
