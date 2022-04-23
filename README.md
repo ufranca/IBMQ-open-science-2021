@@ -4,3 +4,5 @@ In this project, we describe and calculate different approaches and methodologie
 
 The notebook is self-contained and can be run with all simulations or only with the Jakarta executions. 
 
+This project is publicly available at https://github.com/ufranca/IBMQ-open-science-2021.
+
