@@ -8,7 +8,7 @@ __Fig 1: State fidelity for the different simulations and Jakarta runs.__
 <img src ='images/final_sim_device.svg' >
 
 __Fig 2: State $|110\rangle$ evolution.__
-<img src ='images/final_state_evolution_simulations.svg' >
+<img src ='images/final_state_evolution_sim_and_device.svg' >
 
 This project is publicly available at https://github.com/ufranca/IBMQ-open-science-2021.
 
