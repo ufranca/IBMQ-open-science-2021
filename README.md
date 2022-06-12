@@ -5,10 +5,12 @@ In this project, we describe and calculate different approaches and methodologie
 The notebook is self-contained and can be run with all simulations or only with the Jakarta executions. 
 
 __Fig 1: State fidelity for the different simulations and Jakarta runs.__
-<img src ="images/final_sim_device.svg" >
+
+<img src="images/final_sim_device.svg" >
 
 __Fig 2: State $|110\rangle$ evolution.__
-<img src ="images/final_state_evolution_sim_and_device.svg" >
+
+<img src="images/final_state_evolution_sim_and_device.svg" >
 
 This project is publicly available at https://github.com/ufranca/IBMQ-open-science-2021.
 
